@@ -139,5 +139,7 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 
 <img width="1614" height="1056" alt="download" src="https://github.com/user-attachments/assets/8789520a-d483-4492-b51f-2a392da9bee9" />
 
-##result:
+
+##RESULT:
+
 thus the experiment is executed sucess
